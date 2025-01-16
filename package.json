@@ -1,0 +1,15 @@
+{
+  "name": "automacao-web-cypress-cucumber",
+  "version": "1.0.0",
+  "description": "Repositório do treinamento: Qualidade, Cypress, Cucumber, Git",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  }
+}
