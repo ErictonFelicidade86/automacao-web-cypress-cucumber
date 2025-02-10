@@ -10,9 +10,11 @@ Repositório do treinamento: Falando um sobre a estrutura Cypress com Cucumber e
 - Cucumber
 - Node.js
 
-## Rodando
+## Excução do teste do Cypress
 
-1. Clonar o repositório, instalar as dependências
+## Faz o Clone o repositório
+
+1. Instalar as dependências
 ```
 npm install
 ```
